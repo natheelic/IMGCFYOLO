@@ -3,3 +3,4 @@
 .vscode
 .env
 .env.example
+datasets/.DS_Store
